@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fia:home|Door43 (fia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fia|d43-fia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fia/archive/master.zip|d43-fia.zip]]
+
+**Recent Changes**
+{{changes>ns = fia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fia|Ethnologue data]]
+
